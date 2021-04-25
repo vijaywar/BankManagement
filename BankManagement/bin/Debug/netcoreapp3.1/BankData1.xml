@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HeadOffice>
+  <Branch>
+    <BranchId>1</BranchId>
+    <Accounts>
+      <Account>
+        <AccountId>0</AccountId>
+        <CurrentBalance>3000</CurrentBalance>
+      </Account>
+      <Account>
+        <AccountId>1</AccountId>
+        <CurrentBalance>3000</CurrentBalance>
+      </Account>
+      <Account>
+        <AccountId>2</AccountId>
+        <CurrentBalance>3000</CurrentBalance>
+      </Account>
+      <Account>
+        <AccountId>3</AccountId>
+        <CurrentBalance>3000</CurrentBalance>
+      </Account>
+      <Account>
+        <AccountId>4</AccountId>
+        <CurrentBalance>3000</CurrentBalance>
+      </Account>
+    </Accounts>
+    <Account>
+      <AccountId>0</AccountId>
+      <CurrentBalance>3000</CurrentBalance>
+    </Account>
+  </Branch>
+  <Branch>
+    <BranchId>1</BranchId>
+    <Accounts />
+  </Branch>
+  <Branch>
+    <BranchId>2</BranchId>
+    <Accounts />
+  </Branch>
+  <Branch>
+    <BranchId>3</BranchId>
+    <Accounts />
+  </Branch>
+  <Branch>
+    <BranchId>4</BranchId>
+    <Accounts />
+  </Branch>
+  <Branch>
+    <BranchId>1</BranchId>
+    <Accounts />
+  </Branch>
+  <Branch>
+    <BranchId>1</BranchId>
+    <Accounts />
+  </Branch>
+  <Branch>
+    <BranchId>1</BranchId>
+    <Accounts />
+  </Branch>
+  <Branch>
+    <BranchId>9</BranchId>
+    <Accounts>
+      <Account>
+        <AccountId>0</AccountId>
+        <CurrentBalance>3000</CurrentBalance>
+      </Account>
+      <Account>
+        <AccountId>1</AccountId>
+        <CurrentBalance>3000</CurrentBalance>
+      </Account>
+      <Account>
+        <AccountId>2</AccountId>
+        <CurrentBalance>3500</CurrentBalance>
+        <Transactions>
+          <TransactionId>
+            <Type>Deposit</Type>
+            <Amount>300</Amount>
+            <TransactionId>1</TransactionId>
+          </TransactionId>
+          <TransactionId>
+            <Type>Withdraw</Type>
+            <Amount>2000</Amount>
+            <TransactionId>2</TransactionId>
+          </TransactionId>
+          <TransactionId>
+            <Type>Withdraw</Type>
+            <Amount>200</Amount>
+            <TransactionId>1</TransactionId>
+          </TransactionId>
+          <TransactionId>
+            <Type>Deposit</Type>
+            <Amount>700</Amount>
+            <TransactionId>1</TransactionId>
+          </TransactionId>
+        </Transactions>
+      </Account>
+    </Accounts>
+  </Branch>
+</HeadOffice>

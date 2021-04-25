@@ -1,0 +1,13 @@
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.exe
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.deps.json
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.runtimeconfig.json
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.runtimeconfig.dev.json
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.dll
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\bin\Debug\netcoreapp3.1\BankManagement.pdb
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.csprojAssemblyReference.cache
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.AssemblyInfoInputs.cache
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.AssemblyInfo.cs
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.dll
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.pdb
+C:\Users\Vijaykanth.Reddy\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp3.1\BankManagement.genruntimeconfig.cache

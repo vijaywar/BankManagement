@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HeadOffice>
+  <Branch>
+    <BranchId>1</BranchId>
+    <Accounts>
+      <Account>
+        <AccountId>1</AccountId>
+        <CurrentBalance>4000</CurrentBalance>
+        <Transactions>
+          <Transaction>
+            <Type>Deposit</Type>
+            <Amount>500</Amount>
+            <TransactionId>1</TransactionId>
+          </Transaction>
+        </Transactions>
+      </Account>
+      <Account>
+        <AccountId>2</AccountId>
+        <CurrentBalance>5000</CurrentBalance>
+        <Transactions />
+      </Account>
+      <Account>
+        <AccountId>3</AccountId>
+        <CurrentBalance>4000</CurrentBalance>
+        <Transactions />
+      </Account>
+      <Account>
+        <AccountId>4</AccountId>
+        <CurrentBalance>3000</CurrentBalance>
+        <Transactions />
+      </Account>
+      <Account>
+        <AccountId>5</AccountId>
+        <CurrentBalance>7800</CurrentBalance>
+        <Transactions />
+      </Account>
+      <Account>
+        <AccountId>6</AccountId>
+        <CurrentBalance>9000</CurrentBalance>
+        <Transactions />
+      </Account>
+      <Account>
+        <AccountId>7</AccountId>
+        <CurrentBalance>11000</CurrentBalance>
+        <Transactions />
+      </Account>
+      <Account>
+        <AccountId>8</AccountId>
+        <CurrentBalance>8792</CurrentBalance>
+        <Transactions>
+          <Transaction>
+            <Type>Deposit</Type>
+            <Amount>8792</Amount>
+            <TransactionId>1</TransactionId>
+          </Transaction>
+        </Transactions>
+      </Account>
+      <Account>
+        <AccountId>9</AccountId>
+        <CurrentBalance>9003</CurrentBalance>
+        <Transactions>
+          <Transaction>
+            <Type>Deposit</Type>
+            <Amount>9003</Amount>
+            <TransactionId>1</TransactionId>
+          </Transaction>
+        </Transactions>
+      </Account>
+    </Accounts>
+    <Transactions />
+    <Customers>
+      <Customer>
+        <PanNumber>ILQ</PanNumber>
+        <Accounts>
+          <Account>2</Account>
+          <Account>4</Account>
+        </Accounts>
+      </Customer>
+      <Customer>
+        <PanNumber>HIT</PanNumber>
+        <Accounts>
+          <Account>9</Account>
+        </Accounts>
+      </Customer>
+    </Customers>
+  </Branch>
+  <Branch>
+    <BranchId>2</BranchId>
+    <Accounts>
+      <Account>
+        <AccountId>1</AccountId>
+        <CurrentBalance>5000</CurrentBalance>
+        <Transactions />
+      </Account>
+    </Accounts>
+    <Transactions />
+    <Customers>
+      <Customer>
+        <PanNumber>VIN204</PanNumber>
+        <Accounts>
+          <Account>1</Account>
+        </Accounts>
+      </Customer>
+    </Customers>
+  </Branch>
+  <Branch>
+    <BranchId>3</BranchId>
+    <Accounts />
+    <Transactions />
+    <Customers />
+  </Branch>
+  <Branch>
+    <BranchId>4</BranchId>
+    <Accounts />
+    <Transactions />
+    <Customers />
+  </Branch>
+  <Branch>
+    <BranchId>5</BranchId>
+    <Accounts>
+      <Account>
+        <AccountId>1</AccountId>
+        <CurrentBalance>34294</CurrentBalance>
+        <Transactions>
+          <Transaction>
+            <Type>Deposit</Type>
+            <Amount>7850</Amount>
+            <TransactionId>1</TransactionId>
+          </Transaction>
+          <Transaction>
+            <Type>Deposit</Type>
+            <Amount>20000</Amount>
+            <TransactionId>1</TransactionId>
+          </Transaction>
+          <Transaction>
+            <Type>Deposit</Type>
+            <Amount>444</Amount>
+            <TransactionId>1</TransactionId>
+          </Transaction>
+          <Transaction>
+            <Type>Deposit</Type>
+            <Amount>6000</Amount>
+            <TransactionId>4</TransactionId>
+          </Transaction>
+        </Transactions>
+      </Account>
+      <Account>
+        <AccountId>2</AccountId>
+        <CurrentBalance>5000</CurrentBalance>
+        <Transactions>
+          <Transaction>
+            <Type>Deposit</Type>
+            <Amount>5000</Amount>
+            <TransactionId>1</TransactionId>
+          </Transaction>
+        </Transactions>
+      </Account>
+    </Accounts>
+    <Transactions />
+    <Customers>
+      <Customer>
+        <PanNumber>GIN</PanNumber>
+        <Accounts>
+          <Account>1</Account>
+        </Accounts>
+      </Customer>
+      <Customer>
+        <PanNumber>FEUP884INK</PanNumber>
+        <Accounts>
+          <Account>2</Account>
+        </Accounts>
+      </Customer>
+    </Customers>
+  </Branch>
+  <Branch>
+    <BranchId>6</BranchId>
+    <Accounts />
+    <Transactions />
+    <Customers />
+  </Branch>
+</HeadOffice>
