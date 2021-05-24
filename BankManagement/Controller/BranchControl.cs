@@ -6,6 +6,7 @@ using System.Xml.Linq;
 
 namespace BankManagement.Controller
 {
+
     using Utility;
     using XmlDatabase;
     public class BranchControl
